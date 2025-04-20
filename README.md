@@ -38,17 +38,17 @@ An interactive, **AI-driven frontend simulator** for financial market sentiment 
 
 ## Screenshots
 
-### Dashboard Overview
-![Dashboard Overview](./images/Screenshot_20-4-2025_102939_bolt.new.jpeg)
+### Dashboard Overview(Portfolio)
+![Dashboard Overview](./images/portfoliosummary.jpeg)
 
-### Portfolio & Stock Insights
-![Portfolio Charts](./images/Screenshot_20-4-2025_102953_bolt.new.jpeg)
+### Stock Insights
+![Portfolio Charts](./images/pricechart.jpeg)
 
 ### Sentiment Analysis & Agent Actions
-![Sentiment Logic](./images/Screenshot_20-4-2025_10304_bolt.new.jpeg)
+![Sentiment Logic](./images/sentimentanalysis.jpeg)
 
 ### Trading Strategy Flow
-![Component Panel](./images/Screenshot_20-4-2025_103017_bolt.new.jpeg)
+![Component Panel](./images/tradehistory.jpeg)
 
 ---
 
