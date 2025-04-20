@@ -54,7 +54,7 @@ An interactive, **AI-driven frontend simulator** for financial market sentiment 
 
 ## Project Structure
 
-/src │ ├── components/ │ ├── Dashboard.tsx │ ├── StockChart.tsx │ └── SentimentPanel.tsx │ ├── mlAgent/ │ └── mlAgent.ts # TensorFlow.js-based DQN logic │ ├── analytics/ │ └── analytics.ts # Financial analytics & metrics │ ├── data/ │ └── mockData.ts # Simulated stock & sentiment data │ ├── styles/ │ └── darkTheme.css # Dark mode styling │ └── App.tsx
+Under Progress, would update afterwards
 
 
 ---
